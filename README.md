@@ -16,6 +16,7 @@ This project is a simple calculator that performs basic arithmetic operations su
 - Division
 - Clear button to reset the calculator
 - Backspace button to delete the last entered digit
+- Toggle button for dark mode and light mode
 
 
 ## Usage
@@ -24,6 +25,15 @@ This project is a simple calculator that performs basic arithmetic operations su
 2. Click on the operation buttons (+, -, *, /) to perform arithmetic operations.
 3. Use the Clear (AC) button to reset the calculator.
 4. Use the Backspace button (DEL) to delete the last entered digit.
+5. Use the toggle button to switch between dark mode and light mode.
+
+
+
+
+
+
+
+
 
 
 
