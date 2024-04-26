@@ -2,7 +2,7 @@ A basic calculator web application built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-[Provide a link to a live demo if available]
+Try it here - https://web-calculator-beta.vercel.app/
 
 ## Description
 
