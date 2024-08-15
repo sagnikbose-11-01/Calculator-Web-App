@@ -1,4 +1,4 @@
-# CodSoft-Calculator
+# Calculator
 
 A basic calculator web application built using HTML, CSS, and JavaScript.
 
